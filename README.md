@@ -2,4 +2,4 @@
 
 My name is Alois Volenec, Student of INFIS
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning .NET/C#
