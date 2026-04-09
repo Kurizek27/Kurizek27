@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 🔭 I’m currently improving in Java<br>🌱 I’m currently learning .NET (c# + WPF)<br>🐧I love Linux
 
 ### OS
